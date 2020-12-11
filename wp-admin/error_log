@@ -1,0 +1,69 @@
+[23-Oct-2020 22:34:07 UTC] [Loco.error] "Translation set not known in Fancy Product Designer" in src/admin/bundle/BaseController.php:69
+[23-Oct-2020 22:35:14 UTC] [Loco.error] "Translation set not known in Fancy Product Designer" in src/admin/bundle/BaseController.php:69
+[27-Nov-2020 02:39:31 UTC] PHP Fatal error:  Uncaught Error: Class 'EM_Admin_Notice' not found in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php:403
+Stack trace:
+#0 /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(287): em_wpml_activate(false)
+#2 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/lanub3/public_html/ln/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/lanub3/public_html/ln/wp-admin/includes/plugin.php(699): do_action('activate_events...', false)
+#5 /home/lanub3/public_html/ln/wp-admin/plugins.php(58): activate_plugin('events-manager-...', 'https://lanub3....', false)
+#6 {main}
+  thrown in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php on line 403
+[27-Nov-2020 02:39:35 UTC] PHP Fatal error:  Uncaught Error: Class 'EM_Admin_Notice' not found in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php:403
+Stack trace:
+#0 /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(287): em_wpml_activate('')
+#2 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/lanub3/public_html/ln/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/lanub3/public_html/ln/wp-admin/plugins.php(193): do_action('activate_events...')
+#5 {main}
+  thrown in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php on line 403
+[27-Nov-2020 02:39:35 UTC] PHP Fatal error:  Uncaught Error: Class 'EM_Admin_Notice' not found in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php:403
+Stack trace:
+#0 /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(287): em_wpml_activate('')
+#2 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/lanub3/public_html/ln/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/lanub3/public_html/ln/wp-admin/plugins.php(193): do_action('activate_events...')
+#5 {main}
+  thrown in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php on line 403
+[27-Nov-2020 02:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'EM_Admin_Notice' not found in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php:403
+Stack trace:
+#0 /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(287): em_wpml_activate(false)
+#2 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/lanub3/public_html/ln/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/lanub3/public_html/ln/wp-admin/includes/plugin.php(699): do_action('activate_events...', false)
+#5 /home/lanub3/public_html/ln/wp-admin/plugins.php(58): activate_plugin('events-manager-...', 'https://lanub3....', false)
+#6 {main}
+  thrown in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php on line 403
+[27-Nov-2020 02:39:52 UTC] PHP Fatal error:  Uncaught Error: Class 'EM_Admin_Notice' not found in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php:403
+Stack trace:
+#0 /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(287): em_wpml_activate('')
+#2 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/lanub3/public_html/ln/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/lanub3/public_html/ln/wp-admin/plugins.php(193): do_action('activate_events...')
+#5 {main}
+  thrown in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php on line 403
+[27-Nov-2020 02:39:53 UTC] PHP Fatal error:  Uncaught Error: Class 'EM_Admin_Notice' not found in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php:403
+Stack trace:
+#0 /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/events-manager-wpml.php(478): EM_WPML_Admin::update()
+#1 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(287): em_wpml_activate('')
+#2 /home/lanub3/public_html/ln/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/lanub3/public_html/ln/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/lanub3/public_html/ln/wp-admin/plugins.php(193): do_action('activate_events...')
+#5 {main}
+  thrown in /home/lanub3/public_html/ln/wp-content/plugins/events-manager-wpml/em-wpml-admin.php on line 403
+[04-Dec-2020 21:55:04 UTC] [Loco.error] "Translation set not known in WooCommerce" in src/admin/bundle/BaseController.php:69
+[04-Dec-2020 21:55:04 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:93
+[10-Dec-2020 22:43:42 UTC] [Loco.error] "Translation set not known in Fancy Product Designer" in src/admin/bundle/BaseController.php:69
+[10-Dec-2020 22:45:26 UTC] [Loco.warning] "Volviendo a la extracción fuente porque falta fancy-product-designer.pot" in src/error/AdminNotices.php:93
+[10-Dec-2020 22:45:28 UTC] [Loco.warning] "Se han omitido 22 archivos que pesan más de 100 KB. (El máximo es 881.1 KB). Revisa todas las cadenas presentes antes de guardar." in src/error/AdminNotices.php:93
+[10-Dec-2020 22:45:52 UTC] [Loco.error] "Translation set not known in Fancy Product Designer" in src/admin/bundle/BaseController.php:69
+[10-Dec-2020 22:48:19 UTC] [Loco.error] "Translation set not known in Fancy Product Designer" in src/admin/bundle/BaseController.php:69
+[10-Dec-2020 22:48:19 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:93
+[10-Dec-2020 22:49:13 UTC] [Loco.error] "Translation set not known in Fancy Product Designer" in src/admin/bundle/BaseController.php:69
+[10-Dec-2020 22:49:13 UTC] [Loco.warning] "Este NO es un archivo de traducción. No se recomienda la edición manual de las cadenas de origen." in src/error/AdminNotices.php:93
+[10-Dec-2020 22:49:25 UTC] [Loco.error] "Translation set not known in Fancy Product Designer" in src/admin/bundle/BaseController.php:69

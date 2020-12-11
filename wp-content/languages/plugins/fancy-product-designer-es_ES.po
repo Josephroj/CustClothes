@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Fancy Product Designer\n"
+"POT-Creation-Date: 2018-01-08 19:57+0000\n"
+"PO-Revision-Date: 2020-12-10 22:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: fancy-product-designer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#. Name of the plugin
+msgid "Fancy Product Designer"
+msgstr "Fancy Product Designer"
+
+#. Author of the plugin
+msgid "fancyproductdesigner.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"HTML5 Product Designer for Wordpress and WooCommerce. Create and sell "
+"customizable products."
+msgstr ""
+"HTML5 Product Designer for Wordpress and WooCommerce. Create and sell "
+"customizable products."
+
+#. Author URI of the plugin
+#, fuzzy
+#| msgid "http://fancyproductdesigner.com"
+msgid "https://fancyproductdesigner.com"
+msgstr "http://fancyproductdesigner.com"
+
+#. URI of the plugin
+#, fuzzy
+#| msgid "http://fancyproductdesigner.com/"
+msgid "https://fancyproductdesigner.com/"
+msgstr "http://fancyproductdesigner.com/"

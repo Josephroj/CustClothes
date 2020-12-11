@@ -1,0 +1,2 @@
+[03-Nov-2020 15:11:51 UTC] PHP Notice:  Undefined index: uploadsDir in /home/lanub3/public_html/ln/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php on line 13
+[03-Nov-2020 15:11:51 UTC] PHP Notice:  Undefined index: uploadsDirURL in /home/lanub3/public_html/ln/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php on line 14
